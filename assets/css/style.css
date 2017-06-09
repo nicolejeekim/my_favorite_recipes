@@ -1,0 +1,197 @@
+body {
+background-color: #FFFFFF;
+}
+
+#container {
+	position: relative;
+	border-radius:5px;
+	background-color: #283593;
+	color: white;
+	margin:150px 400px auto;
+	padding:50px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+
+
+h1 {
+	position:relative;
+	font-family: 'Open Sans Condensed', sans-serif;
+	text-align: center;
+	font-size:8em;
+	margin-top: -10%;
+	z-index:2;
+	letter-spacing:20px;
+
+}
+#description {
+	position:relative;
+	opacity:0.95;
+	background-color: #5C6BC0;
+	font-family: 'Cormorant Garamond', serif;
+	color: white;
+	margin:-170px 20px 50px;
+	padding:50px;
+	width: 100%;
+	left:23%;
+	margin-bottom:100px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.name {
+	font-family: 'Cormorant Garamond', serif;
+}
+
+.title {
+	font-style: bold;
+	font-size:1.2em;
+	font-family:'Open Sans Condensed', sans-serif;
+}
+
+a:link {
+	color:black;
+	text-decoration: none;
+}
+
+.title:hover {
+	text-decoration:underline;
+}
+
+#first {
+	position: relative;
+	z-index:1;
+	margin-bottom:200px;
+
+}
+
+#cookie {
+	width: 100%;
+	position: absolute;
+	z-index:4;
+	right: 50%;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+
+#almond {
+	background-color:#FAFAFA;
+	position:relative;
+	color:black;
+	padding: 20px 20px 52px;
+	width: 100%;
+	height:10em;
+	z-index:3;
+	left:50%;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+
+#One {
+	position:absolute;
+	background-color: #00897B;
+	z-index:2;
+	padding:20px;
+	width:200%;
+	height: 13em;
+	top:30px;
+	left: -35%;
+	opacity:0.95;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+
+
+#second {
+	position: relative;
+	margin-bottom:200px;
+}
+
+#cake {
+	width: 100%;
+	display:block;
+	position: absolute;
+	right: 50%;
+	z-index: 3;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+#fallen {
+	background-color:#FAFAFA;
+	position:relative;
+	color:black;
+	padding: 20px 20px 52px;
+	width: 100%;
+	height:10em;
+	left:50%;
+	z-index: 2;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+
+#Two {
+	position:absolute;
+	background-color: #FDD835;
+	z-index:1;
+	padding:20px;
+	width:200%;
+	height: 13em;
+	top:30px;
+	left: -35%;
+	opacity: 0.95;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+
+
+#third {
+	position: relative;
+	margin-bottom:50px;
+}
+
+#strawberry {
+	display: block;
+	width: 100%;
+	position: absolute;
+	right: 50%;
+	z-index: 3;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+#rhubarb {
+	background-color:#FAFAFA;
+	position:relative;
+	color:black;
+	padding: 20px 20px 52px;
+	width: 100%;
+	height:10em;
+	left:50%;
+	z-index: 2;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+#Three {
+	position:absolute;
+	background-color: #B71C1C;
+	z-index:1;
+	padding:20px;
+	width:200%;
+	height: 13em;
+	top:30px;
+	left: -35%;
+	opacity: 0.95;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+#ending {
+	position:relative;
+	opacity:0.95;
+	background-color: #0D47A1;
+	font-family: 'Cormorant Garamond', serif;
+	color: white;
+	margin:-170px 20px 50px;
+	padding:50px;
+	width: 100%;
+	left:23%;
+	margin-bottom:100px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
